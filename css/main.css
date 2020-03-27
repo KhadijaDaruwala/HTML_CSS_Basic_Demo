@@ -356,10 +356,10 @@ nav ul li a:hover {
     }
 }
 
-@media only screen and (min-width: 1650px){
+@media only screen and (min-width: 1600px){
     .server{
         width: 40%;
-        margin: 5em auto 4em 7em;
+        margin: 5em auto 4em;
     }
 
     .container{
